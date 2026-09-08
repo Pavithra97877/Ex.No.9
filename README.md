@@ -1,7 +1,6 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date:
-# Reg. No.:
+# Reg. No.: 212223220072
 
 # Aim:
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
@@ -35,6 +34,8 @@ Tools/LLMs for Video Generation:
 ●	MidJourney: A popular AI tool for generating visually striking and creative Videos based on text descriptions.
 ○	Website: MidJourney
 
+https://github.com/user-attachments/assets/f0376214-ef89-4f74-bfdf-fa09b622fb18
+
 # Instructions:
 1.	Examine the Given Video: Study the Video to understand its key features—objects, colors, lighting, composition, and any stylistic choices.
 2.	Write the Basic Prompt: Start with a simple description of the primary elements in the Video (e.g., "A sunset over a mountain range").
@@ -42,7 +43,9 @@ Tools/LLMs for Video Generation:
 4.	Use the Selected Tool: Choose an Video generation model (e.g., DALL·E, Stable Diffusion, or MidJourney) and input the refined prompt.
 5.	Iterate and Adjust: If the initial result isn't quite right, adjust the prompt further based on the differences observed between the generated and original Video.
 6.	Save and Document: Save the generated Video and document your prompt alongside any observations on how the output compares to the original.
-
+Prompt Adjustments Made for Accuracy:
+The "Lightning" Analogy: Simply stating "cracks" caused models to generate blocky, static fractures. Adding branching... like fiery lightning forced the AI to generate the thin, energetic, high-contrast pathways seen in the original video.
+Explicit Layering: The phrase In the deep-space background... was vital to prevent the AI from merging the Earth and the orange background planet into a single, scrambled object.
 # Deliverables:
 1.	The Original Video: Provided Video for reference.
 2.	The Final Generated Video: The Video created using your refined prompt.
