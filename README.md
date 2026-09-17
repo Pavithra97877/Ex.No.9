@@ -1,5 +1,5 @@
-# Ex.No.9 Exploration of Prompting Techniques for Video Generation
-
+# Ex.No.6 Exploration of Prompting Techniques for Video Generation
+# NAME : PAVITHRA S
 # Reg. No.: 212223220072
 
 # Aim:
